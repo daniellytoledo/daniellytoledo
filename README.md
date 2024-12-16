@@ -3,7 +3,7 @@
 - 🧑🏻‍💻 I’m currently learning Data Analysis using Power BI; Python; and I'm also doing System Analyst and Developer college.
 - ⚡ Fun fact: I work as a cleaner, cleaning sh*t everyday. YAY! 🤢 Am I allowed to say this here or I need to act serious? I tried to be famous posting videos on YouTuBe and TikTok, but here I am. No money! 🤡 But you can definitely find me very active on Instagram @daniellytoledo 🤩
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniellytoledo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellytoledo&layout=compact)
 <!---
 daniellytoledo/daniellytoledo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
