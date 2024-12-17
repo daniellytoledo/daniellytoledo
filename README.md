@@ -1,4 +1,4 @@
-### 👩🏻‍💻 Danielly Toledo
+## 👩🏻‍💻 Danielly Toledo
 ---
 - 👋 Hi! You can call me Dani. I'm brazilian and I'm currently working and living in Belgium.
 - 😎 I’m interested in Data Analysis and finding a nice job in Netherlands in the future. 
