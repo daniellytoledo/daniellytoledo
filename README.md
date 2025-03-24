@@ -1,8 +1,8 @@
 ## 👩🏻‍💻 Danielly Toledo
 
 - 👋 Hi! You can call me Dani. I'm brazilian and I'm currently working and living in Belgium.
-- 😎 I’m interested in Data Analysis and finding a homeoffice job in Netherlands or Portugal. 
-- 🧑🏻‍💻 I’m currently learning Data Analysis using Power BI; Python; and I'm also doing System Analyst and Developer college.
+- 😎 I’m interested in Web Developer and Data Analysis. 
+- 🧑🏻‍💻 My goal is to find a job where I can work from home or at least, most of the days. In Belgium, Netherlands or Portugal.
 ---
 
 ### 🕹️ Technologies I'm learning:
