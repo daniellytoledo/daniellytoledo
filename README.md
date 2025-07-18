@@ -1,8 +1,8 @@
 ## 👩🏻‍💻 Danielly Toledo
 
-- 👋 Hi! You can call me Dani. I'm brazilian and I'm currently working and living in Belgium.
+- 👋 Hi! You can call me Dani. I'm brazilian.
 - 📚 I' studying Data Analysis and System Analysis and Development.
-- 🧑🏻‍💻 My goal is to find a job where I can work from home or at least, most of the days. In Belgium, Netherlands or Portugal.
+- 🧑🏻‍💻 My goal is to find a job where I can work from home or at least, most of the days, in Belgium, Netherlands or Portugal.
 ---
 
 ### 🕹️ Technologies I'm learning:
