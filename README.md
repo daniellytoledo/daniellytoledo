@@ -1,7 +1,7 @@
 ## 👩🏻‍💻 Danielly Toledo
 
 - 👋 Hi! You can call me Dani. I'm brazilian and I'm living in Portugal for now, however I'm planning to move to Netherlands in the future.
-- 📚 I'm taking a higher education System Analysis and Development course and I'm also studying Specialist Technician in Management Information Applications.
+- 📚 Student of Systems Analysis and Development and CET (Technological Specialization Course) in Management Information Systems Applications.
 - 🧑🏻‍💻 My goal right now is to do my own projects to find a nice opportunity.
 ---
 
