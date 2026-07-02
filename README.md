@@ -16,10 +16,10 @@
 Olá, mundo! Pode me chamar de Dani. 
 Sou apaixonada por PRAIAS, fotografar espontaneidade, fazer musculação e passo raiva no League of Legends. Ficou esperando que eu falasse que sou apaixonada por tecnologia, né? Até gosto. Tenho amigos que trabalham na área. 😜
 
-Try:
-     senso_de_humor = "INSERT INTO piadas_sem_graça (titulo_p, desc_p) VALUES ('LinkedIn', 'Sobre')"
-except Tchau as t:
-     print("Espero que tenham entendido.")
+Try:</b>
+     senso_de_humor = "INSERT INTO piadas_sem_graça (titulo_p, desc_p) VALUES ('LinkedIn', 'Sobre')"</b>
+except Tchau as t:</b>
+     print("Espero que tenham entendido.")</b>
 
 Tenho interesse em dados e por isso quero fazer uma pós graduação em **Análise de Dados** após concluir meu curso em Análise e Desenvolvimento de Sistemas. Também estou quase concluindo o curso Técnico Especialista em Aplicações de Informática de Gestão, onde fiz vários projetos práticos como podem ver no meu perfil. Fora dessas duas formações, faço cursos pequenos e participo de bootcamps para continuar enriquecendo meus conhecimentos (e não deixar no esquecimento o que já aprendi). No fim do dia, meu objetivo é ir subindo degrau por degrau até chegar em **Engenharia de Dados**, fazendo com que a análise agora seja uma base e uma porta de entrada.
 
