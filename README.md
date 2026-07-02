@@ -20,7 +20,7 @@ Sou apaixonada por PRAIAS, fotografar espontaneidade, fazer musculação e passo
 try:
     senso_de_humor = (
         "INSERT INTO piadas_sem_graça (titulo_p, desc_p) "
-        "VALUES ('LinkedIn', 'Sobre')"
+        "VALUES ('README.md', 'Sobre')"
     )
 except Tchau as t:
     print("Espero que tenham entendido.")
