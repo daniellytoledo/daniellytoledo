@@ -13,9 +13,15 @@
 
 </div>
 
-Olá! Pode me chamar de **Dani**. Sou brasileira, morando em Portugal 🇵🇹 e com planos de seguir para os Países Baixos 🇳🇱. Sou apaixonada por tecnologia e acredito no poder dos dados e dos sistemas para transformar organizações.
+Olá, mundo! Pode me chamar de Dani. 
+Sou apaixonada por PRAIAS, fotografar espontaneidade, fazer musculação e passo raiva no League of Legends. Ficou esperando que eu falasse que sou apaixonada por tecnologia, né? Até gosto. Tenho amigos que trabalham na área. 😜
 
-Estou a construir uma base sólida em **desenvolvimento de software** e **análise de dados** — combinando formação académica em dois países com projetos práticos. O meu objetivo é trabalhar com **desenvolvimento de sistemas** ou **análise de dados**, especialmente em ambientes internacionais.
+Try:
+     senso_de_humor = "INSERT INTO piadas_sem_graça (titulo_p, desc_p) VALUES ('LinkedIn', 'Sobre')"
+except Tchau as t:
+     print("Espero que tenham entendido.")
+
+Tenho interesse em dados e por isso quero fazer uma pós graduação em **Análise de Dados** após concluir meu curso em Análise e Desenvolvimento de Sistemas. Também estou quase concluindo o curso Técnico Especialista em Aplicações de Informática de Gestão, onde fiz vários projetos práticos como podem ver no meu perfil. Fora dessas duas formações, faço cursos pequenos e participo de bootcamps para continuar enriquecendo meus conhecimentos (e não deixar no esquecimento o que já aprendi). No fim do dia, meu objetivo é ir subindo degrau por degrau até chegar em **Engenharia de Dados**, fazendo com que a análise agora seja uma base e uma porta de entrada.
 
 ---
 
@@ -30,12 +36,12 @@ Estou a construir uma base sólida em **desenvolvimento de software** e **análi
     <td align="center" width="50%">
       <b>🇧🇷 Tecnólogo em Análise e Desenvolvimento de Sistemas</b><br/>
       <i>Descomplica Faculdade Digital · EAD · Brasil</i><br/><br/>
-      Curso com foco em engenharia de software, banco de dados, programação orientada a objetos, desenvolvimento mobile e web, computação em nuvem e arquitetura de sistemas.
+      Curso com foco em engenharia de software, banco de dados, programação orientada a objetos, desenvolvimento mobile/web, e arquitetura de sistemas.
     </td>
     <td align="center" width="50%">
       <b>🇵🇹 CET — Técnico/a Especialista em Aplicações Informáticas de Gestão (Nível 5)</b><br/>
       <i>IEFP · Portugal · Presencial</i><br/><br/>
-      Formação tecnológica com foco em sistemas de informação, bases de dados (SQL), programação estruturada e OOP, desenvolvimento web (client & server-side), segurança informática e sistemas ERP/CRM.
+      Formação tecnológica com foco em sistemas de informação, bases de dados (SQL), programação estruturada e OOP, desenvolvimento web, segurança informática e sistemas ERP/CRM.
     </td>
   </tr>
 </table>
@@ -68,7 +74,10 @@ Estou a construir uma base sólida em **desenvolvimento de software** e **análi
 | 🖥️ Sistemas | Sistemas Operativos (Windows), Arquitetura de Hardware |
 
 **🎯 Certificações Extras**
-- 📊 **SQL Database Specialist** — DIO Platform *(em curso)*
+- 📊 **SQL Database Specialist** — DIO Platform *(conluído em Junho de 2026)*
+- ⚙️ **Databricks for Data Engineering - Basics** — Simplilearn Alumni *(conluído em Julho de 2025)*
+- 🎲 **Accenture - Python para Análise e Automação de Dados** — DIO Platform *(cursando)*
+- 🐍 **Basic Python** — Curso em Vídeo *(cursando)*
 
 </details>
 
@@ -88,11 +97,15 @@ Estou a construir uma base sólida em **desenvolvimento de software** e **análi
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+**Aprendendo agora / Currently learning**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 **Banco de Dados**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 **Ferramentas & Ambiente**
 
@@ -100,12 +113,7 @@ Estou a construir uma base sólida em **desenvolvimento de software** e **análi
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-
-**Aprendendo agora / Currently learning**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
 
 </div>
 
@@ -130,40 +138,6 @@ Estou a construir uma base sólida em **desenvolvimento de software** e **análi
 
 <div align="center">
 
-### 🎯 Objetivos & Área de Atuação
-
-</div>
-
-```python
-dani = {
-    "name": "Danielly Toledo",
-    "location": "Lisboa, Portugal 🇵🇹 → Netherlands 🇳🇱",
-    "languages": ["PT 🇧🇷", "EN 🌍"],
-    "currently_studying": [
-        "ADS - Análise e Desenvolvimento de Sistemas (Descomplica Faculdade Digital)",
-        "CET - Aplicações Informáticas de Gestão (IEFP)",
-        "SQL Database Specialist (DIO)",
-        "Python (Curso em Vídeo)"
-    ],
-    "career_goals": [
-        "💻 Software Developer",
-        "📊 Data Analyst",
-        "🏗️ Systems Analyst"
-    ],
-    "interests": [
-        "Data Analysis & Visualization",
-        "Backend Development",
-        "Database Design",
-        "System Architecture"
-    ],
-    "looking_for": "opportunities in tech 🚀"
-}
-```
-
----
-
-<div align="center">
-
 ### 🌱 O que estou a construir / What I'm building
 
 </div>
@@ -180,7 +154,6 @@ dani = {
 ### 📬 Contacto / Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniellytoledo)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daniellytoledo)
 
 <br/>
 
