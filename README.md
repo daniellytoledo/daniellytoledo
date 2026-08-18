@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Danielly%20Toledo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems+Analyst+%7C+Developer+%7C+Data+Enthusiast&descAlignY=58&descSize=18&descColor=a0c4d8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Danielly%20Toledo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer+%7C+Data+Enthusiast&descAlignY=58&descSize=18&descColor=83080A"/>
 
 </div>
 
@@ -119,23 +119,6 @@ Tenho interesse em dados e por isso quero fazer uma pós graduação em **Engenh
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniellytoledo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellytoledo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=daniellytoledo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
