@@ -41,7 +41,7 @@ Tenho interesse em dados e por isso quero fazer uma pós graduação em **Engenh
     <td align="center" width="50%">
       <b>🇧🇷 Tecnólogo em Análise e Desenvolvimento de Sistemas</b><br/>
       <i>Descomplica Faculdade Digital · EAD · Brasil</i><br/><br/>
-      Curso com foco em engenharia de software, banco de dados, programação orientada a objetos, desenvolvimento mobile/web, e arquitetura de sistemas.
+      Curso com foco em análise de sistemas, engenharia de software, banco de dados, programação orientada a objetos, desenvolvimento mobile/web, e arquitetura de sistemas.
     </td>
     <td align="center" width="50%">
       <b>🇵🇹 CET — Técnico/a Especialista em Aplicações Informáticas de Gestão (Nível 5)</b><br/>
@@ -56,7 +56,7 @@ Tenho interesse em dados e por isso quero fazer uma pós graduação em **Engenh
 
 <br/>
 
-**ADS — Análise e Desenvolvimento de Sistemas · Descomplica Faculdade Digital (BR)**
+**ADS — Análise e Desenvolvimento de Sistemas · (BR)**
 
 | Área | Conteúdos |
 |---|---|
@@ -82,7 +82,7 @@ Tenho interesse em dados e por isso quero fazer uma pós graduação em **Engenh
 - 📊 **SQL Database Specialist** — DIO Platform *(conluído em Junho de 2026)*
 - ⚙️ **Databricks for Data Engineering - Basics** — Simplilearn Alumni *(conluído em Julho de 2025)*
 - 🎲 **Accenture - Python para Análise e Automação de Dados** — DIO Platform *(cursando)*
-- 🐍 **Basic Python** — Curso em Vídeo *(cursando)*
+- 🐍 **Python** — Curso em Vídeo *(cursando)*
 
 </details>
 
@@ -99,12 +99,12 @@ Tenho interesse em dados e por isso quero fazer uma pós graduação em **Engenh
 **Linguagens**
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Aprimorando**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
@@ -112,13 +112,25 @@ Tenho interesse em dados e por isso quero fazer uma pós graduação em **Engenh
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+**Cloud & DevOps (estudando agora — [ver anotações](https://github.com/daniellytoledo/Analise_Desenvolvimento_Sistemas_Graduacao/tree/main/Modulo_4A))**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 **Ferramentas & Ambiente**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**IAs que uso para aprendizado**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-258FFA?style=for-the-badge&logo=microsoft&logoColor=white)
 
 </div>
 
@@ -130,16 +142,14 @@ Tenho interesse em dados e por isso quero fazer uma pós graduação em **Engenh
 
 </div>
 
-- 🔍 Projetos com **Python + SQL** para análise e manipulação de dados
+- 🔍 Projetos com **Python + SQL + Power BI** para análise e manipulação de dados
 - 🌐 Aplicações web com lógica de **backend e banco de dados relacional**
-- 📐 Modelagem de sistemas usando **UML e engenharia de software**
-- 📊 Relatórios e dashboards de dados para suporte à decisão
 
 ---
 
 <div align="center">
 
-### 📬 Contacto / Connect with me
+### 📬 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniellytoledo)
 
