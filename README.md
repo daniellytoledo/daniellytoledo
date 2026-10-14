@@ -13,20 +13,7 @@
 
 </div>
 
-Olá, mundo! Pode me chamar de Dani. 
-Sou apaixonada por PRAIAS, fotografar espontaneidade, fazer musculação e passo raiva no League of Legends. Ficou esperando que eu falasse que sou apaixonada por tecnologia, né? Até gosto. Tenho amigos que trabalham na área. 😜
-
-```python
-try:
-    senso_de_humor = (
-        "INSERT INTO piadas_sem_graça (titulo_p, desc_p) "
-        "VALUES ('README.md', 'Sobre')"
-    )
-except Tchau as t:
-    print("Espero que tenham entendido.")
-```
-
-Tenho interesse em dados e por isso faço projetos com Python, SQL e Power BI. Atualmente, estou adquirindo curiosidade sobre QA.
+Tenho experiência com em logística, utilizando o sistema SAP para gestão de reservas de transportes terrestres. Atualmente, tenho interesse em dados e por isso faço formações e projetos com Python, SQL e Power BI. Estou no último semestre de Análise e Desenvolvimento de Sistemas, ainda pensando em qual pós-graduação fazer.
 
 ---
 
