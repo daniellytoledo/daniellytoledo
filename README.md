@@ -26,7 +26,7 @@ except Tchau as t:
     print("Espero que tenham entendido.")
 ```
 
-Tenho interesse em dados e por isso quero fazer uma pós graduação em **Engenharia de Dados** após concluir minha graduação em Análise e Desenvolvimento de Sistemas. Também estou quase concluindo o curso Técnico Especialista em Aplicações de Informática de Gestão, onde fiz vários projetos práticos como podem ver no meu perfil. Fora dessas duas formações, faço cursos pequenos e participo de bootcamps para continuar enriquecendo meus conhecimentos (e não deixar no esquecimento o que já aprendi).
+Tenho interesse em dados e por isso faço projetos com Python, SQL e Power BI. Atualmente, estou adquirindo curiosidade sobre QA.
 
 ---
 
