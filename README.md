@@ -13,7 +13,7 @@
 
 </div>
 
-Tenho experiência com em logística, utilizando o sistema SAP para gestão de reservas de transportes terrestres. Atualmente, tenho interesse em dados e por isso faço formações e projetos com Python, SQL e Power BI. Estou no último semestre de Análise e Desenvolvimento de Sistemas, ainda pensando em qual pós-graduação fazer.
+Tenho experiência em logística, utilizando o sistema SAP para gestão de reservas de transportes terrestres. Atualmente, tenho interesse em dados e por isso faço formações e projetos com Python, SQL e Power BI. Estou no último semestre de Análise e Desenvolvimento de Sistemas, ainda pensando em qual pós-graduação fazer.
 
 ---
 
