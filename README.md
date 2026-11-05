@@ -1,145 +1,166 @@
+
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Danielly%20Toledo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer+%7C+Data+Enthusiast&descAlignY=58&descSize=18&descColor=83080A"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Danielly%20Toledo&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20%7C%20UI%2FUX%20%7C%20Data%20Analysis&descAlignY=60&descSize=16&descColor=ffffff"/>
+
+### Hi there, welcome to my GitHub!
+
+Software Development Intern and IT student based in Portugal, interested in **Software Engineering, UI/UX, Software Testing, and Data Analysis**.
+
+Currently combining academic learning, personal projects, and hands-on experience in a professional software development environment.
+
+[LinkedIn](https://linkedin.com/in/daniellytoledo) · [Repositories](https://github.com/daniellytoledo?tab=repositories)
 
 </div>
 
 ---
 
-<div align="center">
+### About Me
 
-### 👩🏽‍💻 Sobre mim
+I'm a Brazilian IT student living in Portugal, currently building my career in technology.
 
-</div>
+My previous professional experience includes logistics operations and working with SAP systems. Today, I'm focused on expanding my technical knowledge through academic studies, practical projects, and a software development internship.
 
-Tenho experiência em logística, utilizando o sistema SAP para gestão de reservas de transportes terrestres. Atualmente, tenho interesse em dados e por isso faço formações e projetos com Python, SQL e Power BI. Estou no último semestre de Análise e Desenvolvimento de Sistemas, ainda pensando em qual pós-graduação fazer.
+I'm particularly interested in software functionality, user experience, problem-solving, and discovering how technology can transform data into meaningful insights.
+
+I believe in continuous learning and enjoy exploring new technologies, including AI-assisted development tools.
 
 ---
 
-<div align="center">
+### Professional Experience
 
-### 🎓 Formação Académica
+**Software Development Intern**  
+*Portugal · Present*
 
-</div>
+Currently contributing to the customization and improvement of a **Learning Management System (LMS)** based on the Chamilo platform.
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <b>🇧🇷 Tecnólogo em Análise e Desenvolvimento de Sistemas</b><br/>
-      <i>Descomplica Faculdade Digital · EAD · Brasil</i><br/><br/>
-      Curso com foco em análise de sistemas, engenharia de software, banco de dados, programação orientada a objetos, desenvolvimento mobile/web, e arquitetura de sistemas.
-    </td>
-    <td align="center" width="50%">
-      <b>🇵🇹 CET — Técnico/a Especialista em Aplicações Informáticas de Gestão (Nível 5)</b><br/>
-      <i>IEFP · Portugal · Presencial</i><br/><br/>
-      Formação tecnológica com foco em sistemas de informação, bases de dados (SQL), programação estruturada e OOP, desenvolvimento web, segurança informática e sistemas ERP/CRM.
-    </td>
-  </tr>
-</table>
+My activities focus on improving the platform's functionality, interface, and user experience, using AI-assisted development workflows.
+
+**Key activities:**
+
+- Customizing frontend interfaces and improving visual consistency.
+- Implementing new functionalities with AI-assisted development tools.
+- Improving navigation, usability, and overall user experience.
+- Identifying issues, testing features, and validating changes.
+- Researching LMS solutions and conducting comparative evaluations.
+- Working within a collaborative development environment.
+
+**Tools & Environment:** Claude Code · Git · Forgejo · Docker · Linux · tmux · CI/CD
+
+---
+
+### Technical Knowledge & Tools
+
+**Programming & Web Technologies — Academic and Project Experience**
+
+Python · SQL · HTML · CSS · JavaScript · PHP · Java
+
+**Data Analysis & Visualization**
+
+pandas · NumPy · Matplotlib · Seaborn · Power BI · scikit-learn
+
+**Databases**
+
+MySQL · PostgreSQL
+
+**Development Tools & Environments**
+
+Git · GitHub · VS Code · Docker · Linux · Forgejo
+
+**AI-Assisted Development**
+
+Claude Code · ChatGPT · GitHub Copilot
+
+**Other Technologies Explored**
+
+React · TypeScript · Node.js · Flask · AWS
+
+---
+
+### Featured Projects
+
+**[Credit Card Fraud Detection — Data Analysis & Machine Learning](https://github.com/daniellytoledo/Accenture-Projeto-Analise-de-Dados)**
+
+A data analysis and machine learning project focused on identifying fraudulent credit card transactions.
+
+Developed from an Accenture/DIO bootcamp exercise and expanded into a portfolio project, covering exploratory data analysis, preprocessing, class imbalance, model evaluation, and explainability.
+
+`Python` · `pandas` · `scikit-learn` · `SHAP` · `Data Analysis`
+
+**[Accenture — Python for Data Analysis & Automation](https://github.com/daniellytoledo/Accenture-Python-Analise.Automacao-Dados)**
+
+A collection of practical activities and projects developed during the Accenture bootcamp offered by DIO.
+
+Topics include Python fundamentals, data manipulation, SQL, automation, data visualization, and introductory machine learning.
+
+`Python` · `SQL` · `Automation` · `Data Analysis`
+
+**[Futsal Tactics — Interactive Web Application](https://github.com/daniellytoledo/futsal-tactics)**
+
+An interactive web application designed to visualize and practice futsal strategies through animated plays, player movements, and training activities.
+
+`JavaScript` · `HTML` · `CSS`
+
+**[Python & Flask Web Application](https://github.com/daniellytoledo/web-project-iefp-python-flask)**
+
+An academic project focused on web application development using Python and Flask.
+
+`Python` · `Flask` · `Web Development`
 
 <details>
-<summary><b>📚 Disciplinas & Conteúdos que estou a estudar (clica para expandir)</b></summary>
+<summary><b>More Projects & Learning Repositories</b></summary>
 
-<br/>
+<br>
 
-**ADS — Análise e Desenvolvimento de Sistemas · (BR)**
+**[Software Development Studies](https://github.com/daniellytoledo/Analise_Desenvolvimento_Sistemas_Graduacao)**  
+Academic notes and practical activities covering software engineering, databases, programming, cloud technologies, and DevOps.
 
-| Área | Conteúdos |
-|---|---|
-| 🧠 Fundamentos | Algoritmos, Lógica de Programação, Estruturas de Dados |
-| 🗄️ Banco de Dados | Modelagem de Dados, SQL, Banco de Dados Relacionais e Não-Relacionais |
-| 💻 Programação | POO, Java, Python, Desenvolvimento Web (HTML, CSS, JS, PHP) |
-| 📱 Mobile & Cloud | Desenvolvimento Mobile, Computação em Nuvem, DevOps |
-| 🏗️ Engenharia de SW | UML, Projeto de Software, Metodologias Ágeis (Scrum/Kanban) |
-| 🔒 Infraestrutura | Sistemas Operacionais, Redes, Segurança da Informação |
-
-**CET — Aplicações Informáticas de Gestão (PT)**
-
-| Área | Conteúdos |
-|---|---|
-| 🗄️ Bases de Dados | Conceitos, Sistemas de Gestão (SGBD), SQL (DML, DDL, DQL) |
-| 💻 Programação | Algoritmos, Programação Estruturada, Programação Orientada a Objetos |
-| 🌐 Web | HTML/CSS, JavaScript (client-side), PHP/Python (server-side), Acessibilidade |
-| 🏢 Sistemas de Informação | Fundamentos, Conceção, Engenharia de Software, ERP, CRM |
-| 🔒 Segurança | Segurança em Sistemas Informáticos, Redes de Comunicação de Dados |
-| 🖥️ Sistemas | Sistemas Operativos (Windows), Arquitetura de Hardware |
-
-**🎯 Certificações Extras**
-- 📊 **SQL Database Specialist** — DIO Platform *(conluído em Junho de 2026)*
-- ⚙️ **Databricks for Data Engineering - Basics** — Simplilearn Alumni *(conluído em Julho de 2025)*
-- 🎲 **Accenture - Python para Análise e Automação de Dados** — DIO Platform *(cursando)*
-- 🐍 **Python** — Curso em Vídeo *(cursando)*
+**[Python Fundamentals](https://github.com/daniellytoledo/Formacao-Python-Fundamentals-Dio)**  
+Python learning materials covering programming fundamentals, object-oriented programming, data structures, decorators, and file handling.
 
 </details>
 
 ---
 
-<div align="center">
+### Education
 
-### 🛠️ Tech Stack & Ferramentas
+**Associate-level Degree in Systems Analysis and Development**  
+Descomplica Faculdade Digital · Brazil
 
-</div>
+Software engineering, programming, database systems, software architecture, and web/mobile development.
 
-<div align="center">
+**Higher Professional Technical Course in Business IT Applications (EQF Level 5)**  
+IEFP · Portugal
 
-**Linguagens**
+Software development, databases, information systems, web technologies, and business management applications.
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-**Aprimorando**
+### Additional Training
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+- **Accenture — Python for Data Analysis & Automation** — DIO
+- **Python Fundamentals** — DIO · 2026
+- **SQL Database Specialist** — DIO · 2026
+- **Databricks for Data Engineering — Basics** — Simplilearn · 2025
 
-**Banco de Dados**
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Currently Exploring
 
-**Cloud & DevOps (estudando agora — [ver anotações](https://github.com/daniellytoledo/Analise_Desenvolvimento_Sistemas_Graduacao/tree/main/Modulo_4A))**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Ferramentas & Ambiente**
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**IAs que uso para aprendizado**
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-258FFA?style=for-the-badge&logo=microsoft&logoColor=white)
-
-</div>
+- Software development and UI/UX improvements through my internship.
+- Software testing, quality assurance, and validation practices.
+- Data analysis, visualization, and introductory machine learning.
+- AI-assisted development workflows and software engineering practices.
+- Personal projects to strengthen my technical knowledge.
 
 ---
 
 <div align="center">
 
-### 🌱 O que estou a construir
+**Always learning. Always building. Always improving.**
 
-</div>
+[LinkedIn](https://linkedin.com/in/daniellytoledo) · [GitHub](https://github.com/daniellytoledo)
 
-- 🔍 Projetos com **Python + SQL + Power BI** para análise e manipulação de dados
-- 🌐 Aplicações web com lógica de **backend e banco de dados relacional**
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniellytoledo)
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=90&section=footer"/>
 
 </div>
